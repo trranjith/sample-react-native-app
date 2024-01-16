@@ -1,4 +1,4 @@
-const path = require('path');
+/*const path = require('path');
 
 module.exports = {
   preset: 'react-native',
@@ -14,4 +14,4 @@ module.exports = {
     '\\.(css|less)$': '<rootDir>/assetsTransformer.js',
   },
   transform: {},
-};
+};*/
