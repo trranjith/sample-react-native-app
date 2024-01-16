@@ -49,6 +49,14 @@
     "react-test-renderer": "18.2.0",
     "typescript": "5.0.4"
   },
+  "jest": {
+    "testResultsProcessor": "jest-jenkins-reporter"
+  },
+  "jestSonar": {
+    "reportPath": "reports",
+    "reportFile": "report.xml",
+    "indent": 4
+  },
   "engines": {
     "node": ">=18"
   }
