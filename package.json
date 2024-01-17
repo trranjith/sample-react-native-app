@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
+    "build": "webpack"
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
@@ -59,6 +60,6 @@
     "indent": 4
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=16"
   }
 }
